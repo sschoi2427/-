@@ -1,5 +1,4 @@
-# -
-미국주식지표자동추출기입니다.
+# 미국주식지표자동추출기입니다.
 
 다운로드후 실행만 시키면 곧바로 추출됩니다.
 
@@ -9,4 +8,4 @@
 
 실행 가능한 주소입니다.
 
-https://colab.research.google.com/drive/1kPHysJtUQyrB3pqH3TUXDWz6HXw0zR-G?usp=sharing
+https://drive.google.com/file/d/13eYPQ1T7bthHg__RGUxwlwS401b7gIcN/view?usp=sharing
