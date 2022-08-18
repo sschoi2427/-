@@ -8,4 +8,4 @@
 
 실행 가능한 주소입니다.
 
-https://drive.google.com/file/d/13eYPQ1T7bthHg__RGUxwlwS401b7gIcN/view?usp=sharing
+https://colab.research.google.com/drive/1hxfnuI__4K55BswA5QQv_60W3weF7DPN?usp=sharing
